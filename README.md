@@ -10,4 +10,4 @@ Bom, para instalar e usar, você vai primeiramente baixar os seguintes arquivos:
 
 1. Node JS
 2. Angular CLI
-
+3. Qualquer Editor de sua preferencia ( no caso vou usar o VSCode )
