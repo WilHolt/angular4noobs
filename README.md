@@ -1,5 +1,4 @@
 ## Angular4Noobs
-Angular4Noobs
 
 <img src="./assets/a4n-logo.svg">
 
