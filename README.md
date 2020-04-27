@@ -1,7 +1,18 @@
-## Angular4Noobs
-Angular4Noobs
 
+Angular4Noobs
+<div align="center">
 <img src="./assets/a4n-logo.svg">
+
+</div>
+
+
+### Angular4Noobs desenvolvido para contribuir com a comunidade
+**Iniciativa He4rts Developers**
+<div align="center">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+
+</div>
 
 ## Introdução
 Bem Vindo ao Angular4Noobs, nosso objetivo aqui é te ensinar um pouco do ecossistema do angular
@@ -10,6 +21,8 @@ de forma simples, fácil, rápida e descontraída para que você consiga aprende
 ##### Vamos Assumir que voce ja entende um pouco sobre HTML, CSS e Javascript
 os exemplos serao escritos com typescript, porem voce pode escrever tudo utilizando javascript normalmente
 caso voce ja saiba e queria nos dar alguma opiniao ou algo do tipo, fique a vontade para sugerir nas issues.
+
+
 
 ## O que e Angular
  Angular e um framework javascript para desenvolvimento de single page applications utilizando typepscript, mas WIL, o que e um framework? eu te digo, um framework e basicamente uma estrutura que vai te da coisas prontas pra facilitar tua vida na hora de desenvolver alguma aplicacao, no caso do angular, ele te da todo um ecossistema para desenvolvimento que se voce seguir voce consegue desenvolver algo.
@@ -22,40 +35,35 @@ Esse Angular4Noobs vamos fazer uma pequena aplicacao de to-do para aprender conc
 
 Componentes, Servicos, Modulos, Diretivas, Formularios Data Driven e Reativos e Rotas.
 
+## Conteudos
+
+1. [ Angular CLI](https://github.com)
+2. [ Componentes](https://github.com)
+7. [ Diretivas](https://github.com)
+8. [ Serviços](https://github.com)
+8. [ Manipulacao Dados](https://github.com)
+8. [ Formularios](https://github.com)
+8. [ Rotas](https://github.com)
+5. [ Estrutura de Projetos](https://github.com)
+6. [ Estrutura dos Arquivos ](https://github.com)
+5. [ Começando o Projeto ](https://github.com)
 
 
-
+# Iniciando o Projeto
+Bom, agora vamos aplicar o que foi estudado até agora em um projeto para fixar o conhecimento e entender outros detalhes.
 ## Configurar Ambiente
-Bom, para instalar e usar, você vai primeiramente baixar os seguintes arquivos:
+Bom, para começar, você vai primeiramente necessitar dos seguintes arquivos:
 
 1. Node JS
-2- NPM
+    * [Acesse o site Oficial](https://nodejs.org/en/)
+2. NPM (ou qualquer outro gerenciador de pacotes de sua preferencia )
 2. Angular CLI
+    ```console 
+     npm install -g  @angular/cli
+     ```
 3. Qualquer Editor de sua preferencia ( no caso vou usar o VSCode )
+    * [Acesse o site Oficial](https://code.visualstudio.com)
 
-#### Angular CLI
-Primeiramente depois de tudo configurado, vamos precisar entender como funciona o Angular CLI
-
-Angular CLI e uma poderosa ferramenta de gerenciador de linhas de Comandos onde voce pode gerenciar a aplicacao  atraves das linhas de comando do seu prompt de comando do seu sistema operacional
-mas o que ele me ajuda?
-- Ele nos ajuda a criar o proprio projeto, modulos, servicos, components diretivas, entre outras coisas de forma facil e rapida.
-Mas Como ele Funciona?
-E facil, basta usar a nomeclatura que ele te proporciona que e o comando: NG e seus comandos
-
-vou te dar uma lista dos comandos e em seguida te ensinar como usar cada um
-
-1. ng new - Cria o Projeto instalando todas as dependencias atraves do Package.json e Angular.json
-2. ng generate component [nomedocomponent]- cria um componente, gerando o componenet.ts, o component.spec.ts (para testes)
-3. ng generate module  [nomedomodule]- cria um modulo na pasta escolhida com o nome escolhido
-4. ng generate service  [cria um servico]
-5. ng generate directive [ cria uma diretiva]
-
-## Explicando a estrutura dos Arquivos.
-
-##### Componentes
-##### Modulos
-##### Services
-##### Diretivas
 
 
 
@@ -63,6 +71,19 @@ vou te dar uma lista dos comandos e em seguida te ensinar como usar cada um
 
 Bom, nos vamos criar um pequeno blog para aplicar o que vai ser ensinado aqui, vamos la?
 
+
+# Quero Contribuir
+
+Deseja contribuir com a comunidade open source e com esse projeto maravilhoso para ajudar mais e mais pessoas? nós apreciamos muito sua atitude!
+segue os passos abaixo e seja feliz (:
+
+1. Realize um Fork do projeto
+2. Crie um branch com a nova feature (git checkout -b  feature/featureBraba)
+4. Realize o Commit (git commit -m 'Adicionado 5. conteudo brabo')
+5. Realize o Push no Branch (git push origin feature/featureBraba)
+6. Abra um Pull Request
+7. Aguarde a Review e Voilá
+
 ## Autores
 
-Jose Wilder aka Wil Holt 
+Jose Wilder [Linkedin](http://linkedin.com/in/jose-wilder)
