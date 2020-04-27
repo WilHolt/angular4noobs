@@ -1,6 +1,3 @@
-## Angular4Noobs
-
-Angular4Noobs
 <div align="center">
 <img src="./assets/a4n-logo.svg">
 
