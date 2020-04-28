@@ -18,13 +18,7 @@ vou te dar uma lista dos comandos e em seguida te ensinar como usar cada um
 
 | Comando        | O que ele faz |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| ng new     | Cria o Projeto instalando todas as dependencias e criando os arquivos |
+| ng generate| cria ou atualiza componentes, modulos, servicos e diretivas      |
+| ng build  | cria uma versão  de produção para sua aplicação |
 
-1. * ng new  
-> Cria o Projeto instalando todas as dependencias atraves do Package.json e Angular.json
-2. ng generate component [nomedocomponent]- cria um componente, gerando o componenet.ts, o component.spec.ts (para testes)
-3. ng generate module  [nomedomodule]- cria um modulo na pasta escolhida com o nome escolhido
-4. ng generate service  [cria um servico]
-5. ng generate directive [ cria uma diretiva]
