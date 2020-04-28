@@ -44,6 +44,7 @@ Componentes, Servicos, Modulos, Diretivas, Formularios Data Driven e Reativos e 
 8. [ Rotas](https://github.com)
 5. [ Estrutura de Projetos](https://github.com)
 6. [ Estrutura dos Arquivos ](https://github.com)
+7. [ Ciclos de Vida ](https://github.com)
 5. [ Começando o Projeto ](https://github.com)
 
 
