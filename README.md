@@ -31,7 +31,7 @@ mas enfim, o que ele me oferece wil? entao... o angular te oferece coisas como
 ##  O que vamos aprender
 Esse Angular4Noobs vamos fazer entender os conceitos teoricamente e depois aplicar no projeto que será uma calculadora de valor para freelancer, faremos isso para fixar os conceitos e aprender bem na prática como é usar o angular.
 
-1. [ Angular CLI](https://github.com)
+1. [ Angular CLI](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/angular-cli.md)
 2. [ Componentes](https://github.com)
 7. [ Diretivas](https://github.com)
 8. [ Serviços](https://github.com)
