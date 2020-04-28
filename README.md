@@ -71,11 +71,13 @@ Deseja contribuir com a comunidade open source e com esse projeto maravilhoso pa
 segue os passos abaixo e seja feliz (:
 
 1. Realize um Fork do projeto
-2. Crie um branch com a nova feature (git checkout -b  feature/featureBraba)
-4. Realize o Commit (git commit -m 'Adicionado 5. conteudo brabo')
-5. Realize o Push no Branch (git push origin feature/featureBraba)
+2. Crie um branch com a nova feature (git checkout -b  feature/featureNova)
+4. Realize o Commit (git commit -m 'add lazyload content') (explicitando bem o que esse commit irá fazer ( de preferencia em ingles))
+5. Realize o Push no Branch (git push origin feature/featureNova)
 6. Abra um Pull Request
 7. Aguarde a Review e Voilá
+
+ou crie uma issue.
 
 ## Autores
 
