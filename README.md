@@ -29,11 +29,7 @@ mas enfim, o que ele me oferece wil? entao... o angular te oferece coisas como
 
 
 ##  O que vamos aprender
-Esse Angular4Noobs vamos fazer uma pequena aplicacao de to-do para aprender conceitos como
-
-Componentes, Servicos, Modulos, Diretivas, Formularios Data Driven e Reativos e Rotas.
-
-## Conteudos
+Esse Angular4Noobs vamos fazer entender os conceitos teoricamente e depois aplicar no projeto que será uma calculadora de valor para freelancer, faremos isso para fixar os conceitos e aprender bem na prática como é usar o angular.
 
 1. [ Angular CLI](https://github.com)
 2. [ Componentes](https://github.com)
@@ -47,9 +43,9 @@ Componentes, Servicos, Modulos, Diretivas, Formularios Data Driven e Reativos e 
 7. [ Ciclos de Vida ](https://github.com)
 5. [ Começando o Projeto ](https://github.com)
 
+# Comecando o Projeto
 
-# Iniciando o Projeto
-Bom, agora vamos aplicar o que foi estudado até agora em um projeto para fixar o conhecimento e entender outros detalhes.
+Bom, nos vamos criar um pequeno blog para aplicar o que vai ser ensinado aqui, vamos la?
 ## Configurar Ambiente
 Bom, para começar, você vai primeiramente necessitar dos seguintes arquivos:
 
@@ -66,9 +62,7 @@ Bom, para começar, você vai primeiramente necessitar dos seguintes arquivos:
 
 
 
-## Comecando o Projeto
 
-Bom, nos vamos criar um pequeno blog para aplicar o que vai ser ensinado aqui, vamos la?
 
 
 # Quero Contribuir
