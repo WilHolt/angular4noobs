@@ -5,7 +5,7 @@
 
 
 ### Angular4Noobs desenvolvido para contribuir com a comunidade
-**Iniciativa He4rts Developers**
+**Iniciativa em parceria com a He4rts Developers**
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
