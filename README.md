@@ -16,16 +16,19 @@
 Bem Vindo ao Angular4Noobs, nosso objetivo aqui é te ensinar um pouco do ecossistema do angular
 de forma simples, fácil, rápida e descontraída para que você consiga aprender e criar seus próprios projetos e seguir o aprendizado neste incrível framework.
 
-##### Vamos Assumir que voce ja entende um pouco sobre HTML, CSS e Javascript
-os exemplos serao escritos com typescript, porem voce pode escrever tudo utilizando javascript normalmente
-caso voce ja saiba e queria nos dar alguma opiniao ou algo do tipo, fique a vontade para sugerir nas issues.
+##### Vamos Assumir que voce ja entende um pouco sobre HTML, CSS e Javascript e Typescript
+os exemplos serao escritos com typescript, porém voce pode escrever utilizando javascript normalmente
+caso voce ja saiba e queria nos dar alguma opinião ou algo do tipo, fique à vontade para sugerir nas issues.
 
 
 
-## O que e Angular
- Angular e um framework javascript para desenvolvimento de single page applications utilizando typepscript, mas WIL, o que e um framework? eu te digo, um framework e basicamente uma estrutura que vai te da coisas prontas pra facilitar tua vida na hora de desenvolver alguma aplicacao, no caso do angular, ele te da todo um ecossistema para desenvolvimento que se voce seguir voce consegue desenvolver algo.
+## O que é Angular
+ Angular é um framework javascript para desenvolvimento de single page applications utilizando typepscript e javascript
+**mas Wil, o que é um framework?**
+> eu te digo, um framework e basicamente uma estrutura que vai te da coisas prontas pra facilitar tua vida na hora de desenvolver alguma > aplicação, no caso do angular, ele te da todo um ecossistema para desenvolvimento que se voce seguir você consegue desenvolver algo.
 
-mas enfim, o que ele me oferece wil? entao... o angular te oferece coisas como
+**mas enfim, o que ele me oferece wil?**
+> entao... o angular te oferece coisas como
 
 
 ##  O que vamos aprender
