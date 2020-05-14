@@ -13,22 +13,21 @@
 </div>
 
 ## Introdução
-Bem Vindo ao Angular4Noobs, nosso objetivo aqui é te ensinar um pouco do ecossistema do angular
-de forma simples, fácil, rápida e descontraída para que você consiga aprender e criar seus próprios projetos e seguir o aprendizado neste incrível framework.
+Bem Vindo ao Angular4Noobs, nosso objetivo aqui é te ensinar um pouco do angular de forma simples, fácil, rápida e descontraída para que você consiga aprender e criar seus próprios projetos e seguir o aprendizado neste incrível framework.
 
 ##### Vamos Assumir que voce ja entende um pouco sobre HTML, CSS e Javascript e Typescript
-os exemplos serao escritos com typescript, porém voce pode escrever utilizando javascript normalmente
-caso voce ja saiba e queria nos dar alguma opinião ou algo do tipo, fique à vontade para sugerir nas issues.
+Todos os exemplos serão escritos com typescript, porém voce pode escrever utilizando javascript normalmente
+caso voce já manja de angular e queira a nos dar alguma opinião, ajuda ou algo do tipo, fique à vontade para sugerir nas issues ou fazer pull requestes (no final desse texto eu explico como).
 
 
 
 ## O que é Angular
  Angular é um framework javascript para desenvolvimento de single page applications utilizando typepscript e javascript
 **mas Wil, o que é um framework?**
-> eu te digo, um framework e basicamente uma estrutura que vai te da coisas prontas pra facilitar tua vida na hora de desenvolver alguma > aplicação, no caso do angular, ele te da todo um ecossistema para desenvolvimento que se voce seguir você consegue desenvolver algo.
+> eu te digo, um framework e basicamente uma estrutura que vai te da coisas prontas pra facilitar tua vida na hora de desenvolver alguma > aplicação, no caso do angular, ele te da todo um ecossistema para desenvolvimento que se voce seguir você consegue desenvolver projetos dos simples aos complexos.
 
-**mas enfim, o que ele me oferece wil?**
-> entao... o angular te oferece coisas como
+**mas enfim, o que ele me oferece wil?**,,
+> então... o angular te oferece coisas como desenvolvimento crossplataform, velocidade e performace, uma gama de ferramentas e conceitos pra utilizar, e de quebra uma comunidade enorme e participativa.
 
 
 ##  O que vamos aprender
@@ -38,6 +37,7 @@ Esse Angular4Noobs vamos fazer entender os conceitos teoricamente e depois aplic
 2. [ Componentes](https://github.com)
 7. [ Diretivas](https://github.com)
 8. [ Serviços](https://github.com)
+8. [ Modulos](https://github.com)
 8. [ Manipulacao Dados](https://github.com)
 8. [ Formularios](https://github.com)
 8. [ Rotas](https://github.com)
@@ -46,9 +46,12 @@ Esse Angular4Noobs vamos fazer entender os conceitos teoricamente e depois aplic
 7. [ Ciclos de Vida ](https://github.com)
 5. [ Começando o Projeto ](https://github.com)
 
-# Comecando o Projeto
+# Sobre o Projeto
 
-Bom, nos vamos criar um pequeno blog para aplicar o que vai ser ensinado aqui, vamos la?
+Bom, nos vamos criar uma calculadora de valor para freelancer aplicar o que vai ser ensinado aqui, vamos la?
+
+Você pode ver o resultado aqui: Preview
+
 ## Configurar Ambiente
 Bom, para começar, você vai primeiramente necessitar dos seguintes arquivos:
 
@@ -62,7 +65,10 @@ Bom, para começar, você vai primeiramente necessitar dos seguintes arquivos:
 3. Qualquer Editor de sua preferencia ( no caso vou usar o VSCode )
     * [Acesse o site Oficial](https://code.visualstudio.com)
 
-
+2. [ Criando estrutura do Projeto](https://github.com)
+7. [ Configurando Rotas ](https://github.com)
+8. [ Implementando a Lógica de Negócio](https://github.com)
+8. [ Modulos ](https://github.com)
 
 
 
@@ -84,4 +90,4 @@ ou crie uma issue.
 
 ## Autores
 
-Jose Wilder [Linkedin](http://linkedin.com/in/jose-wilder)
+**Jose Wilder - Front-end Developer and He4rt Developer Member [Linkedin](http://linkedin.com/in/jose-wilder)
