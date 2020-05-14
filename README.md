@@ -45,7 +45,7 @@ Esse Angular4Noobs vamos fazer entender os conceitos teoricamente e depois aplic
 5. [ Estrutura de Projetos](https://github.com)
 6. [ Estrutura dos Arquivos ](https://github.com)
 7. [ Ciclos de Vida ](https://github.com)
-5. [ Começando o Projeto ](https://github.com)
+5. [ Requisições HTTP ](https://github.com)
 
 # Sobre o Projeto
 
@@ -68,8 +68,8 @@ Bom, para começar, você vai primeiramente necessitar dos seguintes arquivos:
 
 2. [ Criando estrutura do Projeto](https://github.com)
 7. [ Configurando Rotas ](https://github.com)
+8. [ Implementando Formulários ](https://github.com)
 8. [ Implementando a Lógica de Negócio](https://github.com)
-8. [ Modulos ](https://github.com)
 
 
 
@@ -91,4 +91,4 @@ ou crie uma issue.
 
 ## Autores
 
-**Jose Wilder - Front-end Developer and He4rt Developer Member [Linkedin](http://linkedin.com/in/jose-wilder)**
+**Jose Wilder - Front-end Developer and He4rt Developer Member [Linkedin](http://linkedin.com/in/jose-wilder)** 
