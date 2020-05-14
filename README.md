@@ -90,4 +90,4 @@ ou crie uma issue.
 
 ## Autores
 
-**Jose Wilder - Front-end Developer and He4rt Developer Member [Linkedin](http://linkedin.com/in/jose-wilder)
+**Jose Wilder - Front-end Developer and He4rt Developer Member [Linkedin](http://linkedin.com/in/jose-wilder)**
