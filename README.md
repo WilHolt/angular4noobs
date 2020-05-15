@@ -34,17 +34,23 @@ caso voce já manja de angular e queira a nos dar alguma opinião, ajuda ou algo
 ##  O que vamos aprender
 Esse Angular4Noobs vamos fazer entender os conceitos teoricamente e depois aplicar no projeto que será uma calculadora de valor para freelancer, faremos isso para fixar os conceitos e aprender bem na prática como é usar o angular.
 
-1. [ Angular CLI](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/angular-cli.md)
-2. [ Componentes](https://github.com)
-7. [ Diretivas](https://github.com)
-8. [ Serviços](https://github.com)
 8. [ Modulos](https://github.com)
-8. [ Manipulacao Dados](https://github.com)
-8. [ Formularios](https://github.com)
-8. [ Rotas](https://github.com)
+2. [ Componentes](https://github.com)
+8. [ Serviços](https://github.com)
+7. [ Diretivas](https://github.com)
+
+1. [ Angular CLI](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/angular-cli.md)
+
 5. [ Estrutura de Projetos](https://github.com)
-6. [ Estrutura dos Arquivos ](https://github.com)
+8. [ Passagem Dados](https://github.com)
+
+8. [ Formularios](https://github.com)
+
+8. [ Rotas](https://github.com)
+
+
 7. [ Ciclos de Vida ](https://github.com)
+
 5. [ Requisições HTTP ](https://github.com)
 
 # Sobre o Projeto
@@ -56,15 +62,6 @@ Você pode ver o resultado aqui: Preview
 ## Configurar Ambiente
 Bom, para começar, você vai primeiramente necessitar dos seguintes arquivos:
 
-1. Node JS
-    * [Acesse o site Oficial](https://nodejs.org/en/)
-2. NPM (ou qualquer outro gerenciador de pacotes de sua preferencia )
-2. Angular CLI
-    ```console 
-     npm install -g  @angular/cli
-     ```
-3. Qualquer Editor de sua preferencia ( no caso vou usar o VSCode )
-    * [Acesse o site Oficial](https://code.visualstudio.com)
 
 2. [ Criando estrutura do Projeto](https://github.com)
 7. [ Configurando Rotas ](https://github.com)
