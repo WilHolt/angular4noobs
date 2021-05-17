@@ -14,48 +14,51 @@
 </div>
 
 ## Introdução
-Bem Vindo ao Angular4Noobs, nosso objetivo aqui é te ensinar um pouco do angular de forma simples, fácil, rápida e descontraída para que você consiga aprender e criar seus próprios projetos e seguir o aprendizado neste incrível framework.
+Bem Vindo ao Angular4Noobs, nosso objetivo aqui é te ensinar um pouco do angular de forma simples, fácil, rápida e descontraída para que você consiga aprender e criar seus próprios projetos e seguir o aprendizado neste framework e no mundo do desenvolvimento web.
 
 ##### Vamos Assumir que voce ja entende um pouco sobre HTML, CSS e Javascript e Typescript
-Todos os exemplos serão escritos com typescript, porém voce pode escrever utilizando javascript normalmente
-caso voce já manja de angular e queira a nos dar alguma opinião, ajuda ou algo do tipo, fique à vontade para sugerir nas issues ou fazer pull requestes (no final desse texto eu explico como).
+Todos os exemplos serão escritos com Typescript, porém voce pode escrever utilizando javascript (porém é altamente recomendado você utilizar Typescript).
 
-
+Caso voce já entenda de angular e queira a nos dar alguma opinião, ajuda ou algo do tipo, fique à vontade para sugerir nas issues ou fazer pull requests (no final desse texto eu explico como).
 
 ## O que é Angular
- Angular é um framework javascript para desenvolvimento de single page applications utilizando typepscript e javascript
-**mas Wil, o que é um framework?**
-> eu te digo, um framework e basicamente uma estrutura que vai te da coisas prontas pra facilitar tua vida na hora de desenvolver alguma > aplicação, no caso do angular, ele te da todo um ecossistema para desenvolvimento que se voce seguir você consegue desenvolver projetos dos simples aos complexos.
+ Angular é um Component-Based Javascript Framework para desenvolvimento de Single Page Applications e PWA Escaláveis utilizando Typepscript e Javascript.
 
-**mas enfim, o que ele me oferece wil?**,,
-> então... o angular te oferece coisas como desenvolvimento crossplataform, velocidade e performace, uma gama de ferramentas e conceitos pra utilizar, e de quebra uma comunidade enorme e participativa.
+**mas Wil, o que é um framework?**
+> eu te digo meu jovem padawan, um framework é basicamente uma estrutura que vai te da coisas pra facilitar tua vida na hora de desenvolver alguma aplicação.
+> 
+>No caso do angular, ele te da todo um ecossistema para desenvolvimento que se voce seguir você consegue desenvolver projetos dos simples aos complexos de forma rápida,padronizada, perfomática. e escalável.
+
+**Mas enfim, o que ele me oferece de bom wil?**
+> então... o angular te oferece 
+> 1- desenvolvimento crossplataform
+> 
+>  velocidade e performace
+> 
+>Libs bem integradas paras as mais variadas necessidades como por exemplo para Requisições HTPP (calma, vamos chegar lá)
+> 
+> Ferramentas integradas para te ajudar no desenvolvimento tanto no build da sua aplicacão como também para testes e atualizaçao de codigo.
+> 
+>  uma gama de ferramentas e conceitos pra utilizar, e de quebra uma comunidade enorme e participativa.
 
 
 ##  O que vamos aprender
-Esse Angular4Noobs vamos fazer entender os conceitos teoricamente e depois aplicar no projeto que será uma calculadora de valor para freelancer, faremos isso para fixar os conceitos e aprender bem na prática como é usar o angular.
-
-8. [ Modulos](https://github.com)
-2. [ Componentes](https://github.com)
-8. [ Serviços](https://github.com)
-7. [ Diretivas](https://github.com)
+Neste Angular4Noobs vamos fazer entender os conceitos teoricamente e depois aplicar no projeto que será uma calculadora de valor para freelancer, faremos isso para fixar os conceitos e aprender bem na prática como é usar o angular.
 
 1. [ Angular CLI](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/angular-cli.md)
-
-5. [ Estrutura de Projetos](https://github.com)
-8. [ Passagem Dados](https://github.com)
-
-8. [ Formularios](https://github.com)
-
-8. [ Rotas](https://github.com)
-
-
-7. [ Ciclos de Vida ](https://github.com)
-
-5. [ Requisições HTTP ](https://github.com)
+2. [ Módulos](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/modules.md)
+3. [ Componentes](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/components.md)
+4. [ Passagem Dados](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/inputs-outputs.md)
+5. [ Ciclos de Vida ](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/lifecycle.md)
+6. [ Rotas](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/routes.md)
+7. [ Serviços](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/services.md)
+8. [ Estrutura de Projetos](https://github.com)
+9. [ Formularios](https://github.com)
+10. [ Diretivas](https://github.com)
+11. [ Requisições HTTP ](https://github.com)
 
 # Sobre o Projeto
-
-Bom, nos vamos criar uma calculadora de valor para freelancer aplicar o que vai ser ensinado aqui, vamos la?
+Bom, nos vamos criar um joguinho de pokemon em cards aplicar o que vai ser ensinado aqui, vamos la?
 
 Você pode ver o resultado aqui: Preview
 
