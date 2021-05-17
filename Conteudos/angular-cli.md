@@ -38,8 +38,6 @@ ng generate component my-component
 ng g c my-component
 ````
 
-lista
-
 Para ver mais detalhes de cada comando você pode rodar o comando ```--help```
 
 
