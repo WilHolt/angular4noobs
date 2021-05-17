@@ -45,13 +45,13 @@ Caso voce já entenda de angular e queira a nos dar alguma opinião, ajuda ou al
 ##  O que vamos aprender
 Neste Angular4Noobs vamos fazer entender os conceitos teoricamente e depois aplicar no projeto que será uma calculadora de valor para freelancer, faremos isso para fixar os conceitos e aprender bem na prática como é usar o angular.
 
-1. [ Angular CLI](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/angular-cli.md)
-2. [ Módulos](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/modules.md)
-3. [ Componentes](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/components.md)
-4. [ Passagem Dados](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/inputs-outputs.md)
-5. [ Ciclos de Vida ](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/lifecycle.md)
-6. [ Rotas](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/routes.md)
-7. [ Serviços](https://github.com/WilHolt/angular4noobs/blob/master/conteudos/services.md)
+1. [ Angular CLI](https://github.com/WilHolt/angular4noobs/blob/master/Conteudos/angular-cli.md)
+2. [ Módulos](https://github.com/WilHolt/angular4noobs/blob/master/Conteudos/modules.md)
+3. [ Componentes](https://github.com/WilHolt/angular4noobs/blob/master/Conteudos/components.md)
+4. [ Passagem Dados](https://github.com/WilHolt/angular4noobs/blob/master/Conteudos/inputs-outputs.md)
+5. [ Ciclos de Vida ](https://github.com/WilHolt/angular4noobs/blob/master/Conteudos/lifecycle.md)
+6. [ Rotas](https://github.com/WilHolt/angular4noobs/blob/master/Conteudos/routes.md)
+7. [ Serviços](https://github.com/WilHolt/angular4noobs/blob/master/Conteudos/services.md)
 8. [ Estrutura de Projetos](https://github.com)
 9. [ Formularios](https://github.com)
 10. [ Diretivas](https://github.com)
